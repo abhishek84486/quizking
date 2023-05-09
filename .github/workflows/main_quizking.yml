@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Quizking'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B8329E7DABD541CCB45F3ED9CC21C323 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2B8491AD065C4749B782F1F1361622CC }}
           package: .
