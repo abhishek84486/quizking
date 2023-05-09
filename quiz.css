@@ -80,7 +80,7 @@ background-color: green;
 	z-index:10;
 	background-color: rgba(0,0,0,0.9);
 	display:none;
-	align-item:center;
+	align-items:center;
 	justify-content:center;
 
 }
